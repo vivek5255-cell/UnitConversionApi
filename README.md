@@ -203,26 +203,21 @@ Test ? Run All Tests
 * Database-driven unit configuration
 * Caching for frequently used conversions
 
----## Screenshots
+## Screenshots
 
 ### Swagger UI
 
-![Swagger UI](Images/swagger-home.png)
+![Swagger UI](Home_Page_Swagger.png)
 
 ### Successful Conversion
 
-![Successful Conversion](Images/successful-conversion.png)
+![Successful Conversion](successful-conversion_1.png)
 
 ### Error Handling
 
-![Invalid Conversion](invalid-conversion.png)
+![Invalid Conversion](invalid-conversion_1.png)
 
 ### Unit Tests
 
-![Unit Tests](Images/unit-tests-passed.png)
-
-## Author
-
-Developed using ASP.NET Core (.NET 8) as part of a software engineering technical assessment.
-
+![Unit Tests](unit-tests-passed.png)
 
