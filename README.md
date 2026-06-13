@@ -211,13 +211,15 @@ Test ? Run All Tests
 
 ### Successful Conversion
 
-![Successful Conversion ](successful-conversion_1.png)
-(successful-conversion_2.png)
+![Successful Conversion 1](successful-conversion_1.png)
+
+![Successful Conversion 2](successful-conversion_2.png)
 
 ### Error Handling
 
-![Invalid Conversion ](invalid-conversion_1.png)
-(invalid-conversion_2.png)
+![Invalid Conversion 1](invalid-conversion_1.png)
+
+![Invalid Conversion 2](invalid-conversion_2.png)
 
 ### Unit Tests
 
