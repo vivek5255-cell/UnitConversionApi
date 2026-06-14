@@ -42,17 +42,16 @@ The solution follows a clean layered structure:
 
 ```text
 UnitConversionApi
-?
-??? Controllers
-??? Services
-??? Converters
-??? Models
-??? Program.cs
-??? appsettings.json
+
+Controllers
+Services
+Converters
+Models
+Program.cs
+appsettings.json
 
 UnitConversionApi.Tests
-?
-??? ConversionServiceTests.cs
+ConversionServiceTests.cs
 ```
 
 ### Components
